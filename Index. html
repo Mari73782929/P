@@ -80,8 +80,8 @@
       <p class="text-lg text-gray-300 mb-4">Email: <span class="text-blue-400">lalitha@example.com</span></p>
       <p class="text-lg text-gray-300 mb-8">Phone: +91 98765 43210</p>
       <div class="flex justify-center gap-6">
-        <a href="My_Resume_Clear.pdf" target="_blank" class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-full shadow-lg transition-all">View Resume</a>
-        <a href="My_Resume_Clear.pdf" download class="px-6 py-3 bg-green-600 hover:bg-green-700 rounded-full shadow-lg transition-all">Download Resume</a>
+        <a href="Screenshot_20250902-121133.jpg" target="_blank" class="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-full shadow-lg transition-all">View Resume</a>
+        <a href="Screenshot_20250902-121133.jpg" download class="px-6 py-3 bg-green-600 hover:bg-green-700 rounded-full shadow-lg transition-all">Download Resume</a>
       </div>
     </div>
   </section>
